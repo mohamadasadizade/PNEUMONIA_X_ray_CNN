@@ -4,19 +4,5 @@ Small, self-contained project that trains and evaluates Convolutional Neural Net
 
 The project uses the **Chest X-Ray Images (Pneumonia)** dataset and is implemented in **Keras (TensorFlow backend)** with a fully reproducible **Jupyter Notebook**.
 
-## Features
-- Data loading and preprocessing
-- CNN-based classification models
-- Training and validation with performance metrics
-
-## Technologies
-- Python
-- TensorFlow / Keras
-- NumPy, Matplotlib
-- Jupyter Notebook
-
-## Dataset
-Chest X-Ray Images (Pneumonia) dataset  
-
-## Note
-This project is intended for educational and research purposes and should not be used for medical diagnosis.
+**Run in the Google Colab:**
+https://colab.research.google.com/drive/14dpqNSfvMqGIaBYDGWp8-FLBT2t7pgXa?usp=sharing
